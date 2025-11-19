@@ -41,19 +41,20 @@ graph TD
 
 ## 📱 App Screenshots
 
-*(Instruction: Drag and drop your image files directly into the code where it says PLACEHOLDER_LINK)*
+### User App
 
-| User App (Landing) | Authentication | Shop Listing | Document Upload |
-|:---:|:---:|:---:|
-| ![UserHome](https://github.com/user-attachments/assets/248a0f43-c40e-476c-a4f8-c57910dbb78e) | ![Authentication]![1](https://github.com/user-attachments/assets/8ecbb490-0462-4dbc-b422-afafe8eb36bb) | ![ShopList] ![5](https://github.com/user-attachments/assets/c5a21939-083d-4314-80f1-12dd6a9174f9)
-| ![Upload] ![3](https://github.com/user-attachments/assets/3d2c98d9-1930-4815-86e5-ba8aa78388ca) |
+| Landing | Authentication | Shop Listing | Document Upload |
+|:---:|:---:|:---:|:---:|
+| ![UserHome](https://github.com/user-attachments/assets/248a0f43-c40e-476c-a4f8-c57910dbb78e) | ![Authentication](https://github.com/user-attachments/assets/8ecbb490-0462-4dbc-b422-afafe8eb36bb) | ![ShopList](https://github.com/user-attachments/assets/c5a21939-083d-4314-80f1-12dd6a9174f9) | ![Upload](https://github.com/user-attachments/assets/3d2c98d9-1930-4815-86e5-ba8aa78388ca) |
+
+---
+
+### Delivery & Print Shop
 
 | Delivery Tracking | Print Shop Dashboard | Admin Analytics |
 |:---:|:---:|:---:|
-| ![Tracking]![4](https://github.com/user-attachments/assets/4575f3e3-4bcd-4026-a273-93597364aabf)
- | ![Dashboard](<img width="1900" height="909" alt="Screenshot 2025-11-19 093639" src="https://github.com/user-attachments/assets/46159b7f-40a8-4a3b-8b49-f2762b0155bd" />
-) | ![Admin]<img width="1654" height="737" alt="Screenshot 2025-11-19 093649" src="https://github.com/user-attachments/assets/319b59c4-c3aa-4928-8a7f-b12529719595" />
-() |
+| ![Tracking](https://github.com/user-attachments/assets/4575f3e3-4bcd-4026-a273-93597364aabf) | <img width="600" alt="Dashboard" src="https://github.com/user-attachments/assets/46159b7f-40a8-4a3b-8b49-f2762b0155bd" /> | <img width="600" alt="Admin Analytics" src="https://github.com/user-attachments/assets/319b59c4-c3aa-4928-8a7f-b12529719595" /> |
+
 
 ---
 
