@@ -3,18 +3,21 @@
 <p align="center">
   Building scalable, cross-platform ecosystems using 
   <strong>Flutter • React • Firebase</strong><br/>
-  Technical Founder of <strong>Printit</strong> — The “Printer on Wheels” or "Zomato for Printers"
+  Founder & Solo Developer of <strong>Printit</strong> — The “Printer on Wheels”
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=13F7E5&center=true&vCenter=true&width=700&lines=Startup+Founder;Architecting+4-Portal+Ecosystems;Full+Stack+Developer;Always+Learning%2C+Always+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=13F7E5&center=true&vCenter=true&width=700&lines=Startup+Founder;Built+Entire+4-Portal+Stack+Solo;Full+Stack+Developer;Production-Ready+Code" />
 </p>
-# 🖨️ Printit – The “Printer on Wheels”
+
+---
+
+# 🖨️ Featured Project: Printit
 
 **Status:** Proprietary Startup (Private Beta)  
-**Role:** Technical Founder & Lead Architect
+**Role:** Founder & Sole Architect
 
-Printit is a hyperlocal service aggregation platform that connects users with local print shops, streamlining the document printing workflow through a digital ecosystem.
+**Printit** is a hyperlocal service aggregation platform (The "Zomato for Printers") that connects users with local print shops, streamlining the document printing workflow through a digital ecosystem.
 
 ---
 
