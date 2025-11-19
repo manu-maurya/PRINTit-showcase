@@ -28,7 +28,7 @@ graph TD
     Delivery[Delivery App (Flutter)] -->|Live Tracking| Firebase
     Shop[Print Shop Portal (React)] -->|Order Queue| Firebase
     Admin[Admin Dashboard (React)] -->|Analytics| Firebase
-    Firebase[(Firebase Backend)] -->|Auth & DB| CloudFunctions
+    Firebase[(Firebase Backend)] -->|Auth & DB| Cloud Functions
 ```
 ## 🛠️ Tech Stack
 
