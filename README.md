@@ -14,7 +14,7 @@
 
 # 🖨️ Featured Project: Printit
 
-**Status:** Proprietary Startup (Private Beta)  
+**Status:** Under Active Development 🚧 | **Current Phase:** MVP Construction  
 **Role:** Founder & Sole Architect
 
 **Printit** is a hyperlocal service aggregation platform (The "Zomato for Printers") that connects users with local print shops, streamlining the document printing workflow through a digital ecosystem.
@@ -73,3 +73,21 @@ This repository serves as a **technical showcase** of the architecture, UI/UX, a
 I’m happy to provide a code walkthrough or discuss the architecture during an interview.
 
 ---
+
+## 🗺️ Development Roadmap
+
+I am actively building the MVP for the Davanagere market.
+
+- [x] **Phase 1: Core Marketplace (Completed)** ✅
+    - [x] **User App (Flutter):** Full working flow, file upload, searching printers, and Order tracking.
+    - [x] **Print Shop Portal (React):** Real-time order reception, status updates, and queue management.
+    - [x] **Backend:** Firestore Schema & Auth System (User/Shop).
+
+- [ ] **Phase 2: Logistics Ecosystem (In Progress)** 🚧
+    - [ ] **Delivery App:** implementing real-time driver allocation logic.
+    - [ ] **Admin Dashboard:** Building system-wide analytics and user management.
+    - [ ] Integrating Google Maps Directions API for route optimization.
+
+- [ ] **Phase 3: Beta Launch (Planned)**
+    - [ ] Onboarding 5 local print shops for pilot testing.
+    - [ ] End-to-end load testing.
