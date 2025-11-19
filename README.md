@@ -3,16 +3,16 @@
 <p align="center">
   Building scalable, cross-platform ecosystems using 
   <strong>Flutter • React • Firebase</strong><br/>
-  Technical Co-Founder of <strong>Printit</strong> — The “Zomato for Printers”
+  Technical Founder of <strong>Printit</strong> — The “Printer on Wheels” or "Zomato for Printers"
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=13F7E5&center=true&vCenter=true&width=700&lines=Startup+Founder;Architecting+4-Portal+Ecosystems;Full+Stack+Developer;Always+Learning%2C+Always+Building" />
 </p>
-# 🖨️ Printit – The “Zomato for Printers”
+# 🖨️ Printit – The “Printer on Wheels”
 
 **Status:** Proprietary Startup (Private Beta)  
-**Role:** Technical Co-Founder & Lead Architect
+**Role:** Technical Founder & Lead Architect
 
 Printit is a hyperlocal service aggregation platform that connects users with local print shops, streamlining the document printing workflow through a digital ecosystem.
 
@@ -41,14 +41,15 @@ graph TD
 
 ## 📱 App Screenshots
 
-*(Note: Drag and drop your screenshots here to replace these placeholders)*
+*(Instruction: Drag and drop your image files directly into the code where it says PLACEHOLDER_LINK)*
 
-- User App (Home)
-- Shop Listing
-- Document Upload
-- Delivery Tracking
-- Print Shop Dashboard
-- Admin Analytics
+| User App (Home) | Shop Listing | Document Upload |
+|:---:|:---:|:---:|
+| ![UserHome](PLACEHOLDER_LINK) | ![ShopList](PLACEHOLDER_LINK) | ![Upload](PLACEHOLDER_LINK) |
+
+| Delivery Tracking | Print Shop Dashboard | Admin Analytics |
+|:---:|:---:|:---:|
+| ![Tracking](PLACEHOLDER_LINK) | ![Dashboard](PLACEHOLDER_LINK) | ![Admin](PLACEHOLDER_LINK) |
 
 ---
 
