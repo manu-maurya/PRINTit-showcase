@@ -43,13 +43,14 @@ graph TD
 
 *(Instruction: Drag and drop your image files directly into the code where it says PLACEHOLDER_LINK)*
 
-| User App (Home) | Shop Listing | Document Upload |
+| User App (Landing) | Authentication | Shop Listing | Document Upload |
 |:---:|:---:|:---:|
-| ![UserHome](PLACEHOLDER_LINK) | ![ShopList](PLACEHOLDER_LINK) | ![Upload](PLACEHOLDER_LINK) |
+| ![UserHome](PLACEHOLDER_LINK) | ![Authentication](PLACEHOLDER_LINK) | ![ShopList](PLACEHOLDER_LINK) | ![Upload](PLACEHOLDER_LINK) |
 
 | Delivery Tracking | Print Shop Dashboard | Admin Analytics |
 |:---:|:---:|:---:|
-| ![Tracking](PLACEHOLDER_LINK) | ![Dashboard](PLACEHOLDER_LINK) | ![Admin](PLACEHOLDER_LINK) |
+| ![Tracking](PLACEHOLDER_LINK) | ![Dashboard](<img width="1900" height="909" alt="Screenshot 2025-11-19 093639" src="https://github.com/user-attachments/assets/46159b7f-40a8-4a3b-8b49-f2762b0155bd" />
+) | ![Admin](PLACEHOLDER_LINK) |
 
 ---
 
