@@ -29,6 +29,7 @@ graph TD
     Shop[Print Shop Portal (React)] -->|Order Queue| Firebase
     Admin[Admin Dashboard (React)] -->|Analytics| Firebase
     Firebase[(Firebase Backend)] -->|Auth & DB| CloudFunctions
+```
 ## 🛠️ Tech Stack
 
 - **Mobile Apps:** Flutter (Provider State Management, Google Maps API)
