@@ -24,11 +24,11 @@ I architected a **4-Portal Ecosystem** to handle the complex logistics of printi
 
 ```mermaid
 graph TD
-    User[User App (Flutter)] -->|Uploads Docs| Firebase
-    Delivery[Delivery App (Flutter)] -->|Live Tracking| Firebase
-    Shop[Print Shop Portal (React)] -->|Order Queue| Firebase
-    Admin[Admin Dashboard (React)] -->|Analytics| Firebase
-    Firebase[(Firebase Backend)] -->|Auth & DB| Cloud Functions
+    User["User App (Flutter)"] -->|Uploads Docs| Firebase
+    Delivery["Delivery App (Flutter)"] -->|Live Tracking| Firebase
+    Shop["Print Shop Portal (React)"] -->|Order Queue| Firebase
+    Admin["Admin Dashboard (React)"] -->|Analytics| Firebase
+    Firebase[("Firebase Backend")] -->|Auth & DB| CloudFunctions
 ```
 ## 🛠️ Tech Stack
 
