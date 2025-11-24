@@ -3,7 +3,7 @@
 <p align="center">
   Building scalable, cross-platform ecosystems using 
   <strong>Flutter • React • Firebase</strong><br/>
-  Founder & Solo Developer of <strong>Printit</strong> — The “Printer on Wheels”
+  Founder & Solo Developer of <strong>printerQ</strong> — The “Printer on Wheels”
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ---
 
-# 🖨️ Featured Project: Printit
+# 🖨️ Featured Project: printerQ
 
 **Status:** Under Active Development 🚧 | **Current Phase:** MVP Construction  
 **Role:** Founder & Sole Architect
@@ -65,7 +65,7 @@ graph TD
 
 ## 🔒 Why is there no code here?
 
-Printit is a live startup product.  
+printerQ is a live startup product.  
 To protect our **Intellectual Property (IP)** and business logic, the source code is kept private.
 
 This repository serves as a **technical showcase** of the architecture, UI/UX, and system design.
